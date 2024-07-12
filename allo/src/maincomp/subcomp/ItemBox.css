@@ -1,0 +1,39 @@
+.itembox {
+    display: flex;
+}
+
+.itembox>div>img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.itembox_text {
+    flex: 0.9;
+    font-size: 1.4rem;
+}
+
+.itembox>div {
+    width: 200px;
+    padding: 10px;
+}
+
+
+.select_drink {
+    margin-top: 5px;
+}
+
+.select_drink>img {
+    width: 45px;
+    height: 45px;
+    margin-right: 5px;
+}
+
+.itembox_text_bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item_btn {
+    width: 100px !important;
+    color: black !important;
+}

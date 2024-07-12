@@ -1,0 +1,9 @@
+.menue {
+    display: flex;
+    flex-direction: column;
+    border: none black 2px;
+    /* border-radius: 20px; */
+    background-color: white;
+    height: 80vh;
+    overflow: scroll;
+}
